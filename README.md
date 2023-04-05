@@ -15,3 +15,9 @@ Chart.js kutubxonasi uchun, CDN orqali yoki to'g'ridan-to'g'ri paketdan foydalan
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
 ```
+
+## Amchart va django o'rtasida aloqa
+
+[https://www.amcharts.com/]()
+
+### **Ushbu havola orqali siz chart js danda mukammal yaratilingan chartlar bilan ishlay olasiz va o'zingizni loyihalaringiz uchun ajoyib funksional chartlarni yaratasiz degan umiddaman!**
